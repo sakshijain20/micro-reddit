@@ -21,3 +21,6 @@ Then migrate the database using :
 
 Run the project in your local host.
  - rails s
+
+You can find the additional details of the project by visiting at:
+ https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails
